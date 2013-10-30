@@ -13,9 +13,9 @@
 	],
 	"repositories": [
 		{
-		    "type": "composer",
-		    "url": "http://packages.phundament.com"
-		}
+            "type": "vcs",
+            "url": "https://github.com/koalaester/yiistrap.git"
+        },
 	],
 	"require": {
         "koalaester/yiistrap": "1.1.1"
