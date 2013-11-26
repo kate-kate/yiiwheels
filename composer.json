@@ -1,5 +1,5 @@
 {
-	"name": "koalaester/yiiwheels",
+	"name": "kate-kate/yiiwheels",
 	"description": "Extension library for Yiistrap, Yii Twitter's Bootstrap.",
 	"keywords": ["bootstrap", "yii"],
 	"type": "yii-extension",
@@ -14,11 +14,11 @@
 	"repositories": [
 		{
 		    "type": "vcs",
-		    "url": "https://github.com/koalaester/yiistrap.git"
+		    "url": "https://github.com/kate-kate/yiistrap.git"
         	}
 	],
 	"require": {
-        	"koalaester/yiistrap": "*"
+        	"kate-kate/yiistrap": "*"
 	},
     "require-dev": {
         "php": ">=5.3.0",
